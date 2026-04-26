@@ -39,8 +39,6 @@ cat, cd, chmod, cp, echo, find, grep, ls, mkdir, mv, rm, touch.
 ```bash
    go run main.go
 
-Ожидаемый вывод:
-
 При корректном выполнении скрипт выведет в консоль следующий текст:
 
 ./dir2/list.txt
